@@ -1,4 +1,4 @@
-# Electron app with React + React Router + React Redux + SASS
+# Electron app with React + React Router + React Redux + SASS + Typescript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Then Electron was added to the project
 
