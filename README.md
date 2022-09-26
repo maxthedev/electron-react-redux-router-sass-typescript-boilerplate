@@ -4,7 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##### Table of Contents
 - [Installation](#Installation)
-- [Typescripts config](#Typescripts-config)
 - [Project architecture](#Project-architecture)
 - [Typescripts config](#Typescripts-config)
 - [Polyfill error ?](#polyfill-error-)
